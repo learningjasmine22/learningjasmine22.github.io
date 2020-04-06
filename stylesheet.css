@@ -20,6 +20,7 @@ a {
 .top-wrapper {
   padding: 180px 0 100px 0;
   background-image: url(https://lh3.googleusercontent.com/ghoiMYxmIyPV1ZDcPg7GT2lXxlxqpJAo4fJGcRjtIre0X2c2pDsnncQFCnIHq-w8ufWaAT3nyhz6ekL9uVXjJGUM9Hx2TD90ymB4hhdsg-Rht7VwzjrR33X6jfK-wggb509ChGqHXGGoq6_9qhx3TpN7j_NbrAu66GHIuXbLFGAo4vRTmTVd7zWUnCLMe46sRPMRot0mYlpmwoyuEgQ1cyENCFGJv4zZUO593v0nE6gR49MhIHVzYYW7sb5XhSQ1xbUOOLeUJP4msMs3UKqn_Is8Ov3ag8yyABu-CO71bdDDX14lcbP9_azQPdPiETkCebzPa2jibtzZk_1E8EV7CkFv8se-l_drCBLba0si7tpH7XMIyCdz4UUzOiMnh5FiAnOTuwT6jC3bsMDlXvNrKrsJnyXrpp-V-1j6jRQfi51sJEC2w340ZHyRd0rRSsbnvb2kvGeBKcjG8aKfOmMLHrdVCsOFxd56Smae09KcL9Mamz35iYMS1sO5M378joJKx740r6c4tpJCbXZtC5kHSmiyL4mVFg7ke_Twn-ydEFZ5j1EcZ5zctfn6vmtF3wd2-AWI9zsIUjrEd2pYLNlqyvKq-CCDsPvDDFgejUJM-bw_-Xa4RulynwzClcF_qYBQrN10EQv4XhCdGFuy0rW7eXZ56oQ0ka-Fh8y7q2tGWnKL6yR8-LmtPTbfr6wn=w563-h843-no);
+  background: linear-gradient(to top, rgba(217, 175, 217, 0.7) 0%, rgba(151, 217, 225, 0.7) 100%), url(image.png);
   background-size: contain;
   color: white;
   text-align: center;
